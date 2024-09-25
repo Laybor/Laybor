@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying computer systems engineering.<br>🌱 Learning Phyton. <br>⚡ Im lazy but I like to do new things.
+🔭 I am currently studying computer systems engineering.<br>🌱 Learning web dev. <br>⚡ Im lazy but I like to do new things.
 
 
 # 💻 Tech Stack:
