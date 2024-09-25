@@ -2,7 +2,7 @@
 I am currently on a personal learning journey alongside my university studies, researching new technologies on my own and developing personal projects that will help me in the future (I think almost no one has done this, right?)
 
 # 💫 About Me:
-🔭 I am currently studying computer systems engineering.<br>🌱 Learning web dev. <br>⚡ Im lazy but I like to do new things. <br>🦇 [Dracula Theme](https://draculatheme.com/) enjoyer
+🔭 I am currently studying computer systems engineering.<br>🌱 Learning web developing. <br>⚡ Im lazy but I like to do new things. <br>🦇 [Dracula Theme](https://draculatheme.com/) enjoyer
 
 
 # 💻 Tech Stack:
