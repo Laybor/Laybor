@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title">
+<title id="title">Laybor — Small ideas. Useful tools. Shared with everyone.</title>
+<rect width="1200" height="400" rx="20" fill="#282a36"/>
+<path d="M820 0V400M900 0V400M980 0V400M1060 0V400M1140 0V400M820 80H1200M820 160H1200M820 240H1200M820 320H1200" stroke="#383a4c"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<circle cx="55" cy="55" r="5" fill="#50fa7b"/>
+<text x="73" y="61" fill="#bd93f9" font-size="16" letter-spacing="3">PERSONAL PROJECTS / PUBLIC WORKSHOP</text>
+<text x="48" y="190" fill="#f8f8f2" font-size="112" font-weight="800" letter-spacing="-4">Laybor<tspan fill="#ff79c6">.</tspan></text>
+<text x="54" y="254" fill="#f8f8f2" font-size="29">Small ideas. Useful tools.</text>
+<text x="54" y="296" fill="#c9c6d7" font-size="23">Shared with everyone.</text>
+<text x="54" y="360" fill="#bd93f9" font-size="14" letter-spacing="2">WEB EXPERIMENTS · DESKTOP TOOLS · SIDE QUESTS</text>
+</g>
+<path d="M900 96H924V120H948V144H972V168H996V192H1020V216H972V264H948V216H924V240H900Z" fill="#bd93f9"/>
+<path d="M1068 264V312M1044 288H1092" stroke="#ff79c6" stroke-width="12"/>
+<rect x="846" y="296" width="16" height="16" fill="#8be9fd"/>
+<rect x="1064" y="88" width="12" height="12" fill="#ff79c6"/>
+</svg>
