@@ -15,20 +15,28 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
       - name: Actualizar repositorios públicos
         shell: pwsh
         env:
           GH_TOKEN: ${{ github.token }}
         run: ./scripts/update-profile.ps1
+      - name: Generar serpiente de contribuciones
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: Laybor
+          outputs: |
+            assets/contribution-snake.svg?color_snake=#ff79c6&color_dots=#343746,#625080,#8b69b8,#bd93f9,#50fa7b
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Guardar cambios
         shell: bash
         run: |
-          if git diff --quiet -- README.md; then
+          git add README.md assets/stats.svg assets/languages.svg assets/contribution-snake.svg
+          if git diff --cached --quiet; then
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md
           git commit -m 'docs: actualizar actividad pública'
           git push

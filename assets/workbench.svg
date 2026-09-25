@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="270" viewBox="0 0 960 270" role="img" aria-labelledby="title">
+<title id="title">File organizer for Windows — planned workflow concept</title>
+<style>@keyframes travel{0%{opacity:0;transform:translateX(-7px)}50%{opacity:1}100%{opacity:0;transform:translateX(7px)}}.flow{animation:travel 2.8s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.flow{animation:none}}</style>
+<rect width="960" height="270" rx="18" fill="#282a36"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="32" y="36" font-size="14" fill="#ff79c6" letter-spacing="3">CURRENT QUEST / FILE ORGANIZER</text>
+<rect x="737" y="17" width="190" height="28" rx="14" fill="#44475a"/><text x="753" y="36" fill="#f1fa8c" font-size="12">CONCEPT · IN DEVELOPMENT</text>
+<g transform="translate(60 80)"><rect x="8" y="0" width="48" height="64" rx="5" fill="#ff79c6" transform="rotate(-12 32 32)"/><rect x="28" y="5" width="48" height="64" rx="5" fill="#bd93f9" transform="rotate(8 52 37)"/><rect x="49" y="17" width="48" height="64" rx="5" fill="#8be9fd"/><path d="M59 36H86M59 47H80M59 58H86" stroke="#282a36" stroke-width="3"/></g>
+<path class="flow" d="M230 125H300M289 113L301 125L289 137M574 125H644M633 113L645 125L633 137" stroke="#bd93f9" stroke-width="3" fill="none"/>
+<rect x="366" y="81" width="130" height="90" rx="9" fill="#44475a"/><g stroke="#50fa7b" stroke-width="3" fill="none"><path d="M382 102L386 106L393 97M382 123L386 127L393 118M382 144L386 148L393 139"/></g><path d="M404 103H480M404 124H468M404 145H476" stroke="#c9c6d7" stroke-width="5"/>
+<path d="M720 95H765L777 106H864V166H720Z" fill="#bd93f9"/><path d="M720 116H864V166H720Z" fill="#a078db"/><path d="M777 140L787 150L806 129" stroke="#282a36" stroke-width="5" fill="none"/>
+<g fill="#f8f8f2" font-size="20" font-weight="600"><text x="45" y="210">01 / The chaos</text><text x="352" y="210">02 / Your review</text><text x="710" y="210">03 / A little order</text></g>
+<g fill="#b8b6c8" font-size="13"><text x="45" y="238">A folder full of mixed files</text><text x="352" y="238">Preview before moving</text><text x="710" y="238">No overwrites. Undo planned.</text></g>
+</g></svg>

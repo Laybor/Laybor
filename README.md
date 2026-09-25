@@ -1,75 +1,75 @@
 <p align="center"><img src="assets/header.svg" width="100%" alt="Laybor — Small ideas. Useful tools. Shared with everyone."></p>
 
-<p align="center"><a href="#on-the-workbench">Building now</a> · <a href="#explore-a-project">Explore</a> · <a href="#behind-the-handle">About me</a> · <a href="#fresh-from-the-workshop">Updates</a></p>
+<p align="center">
+  <a href="https://github.com/Laybor?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_MY_PROJECTS-bd93f9?style=for-the-badge&logo=github&logoColor=282a36" alt="Explore my projects"></a>
+  <a href="#on-the-workbench"><img src="https://img.shields.io/badge/BUILDING_A_DESKTOP_APP-ff79c6?style=for-the-badge&logo=python&logoColor=282a36" alt="Building a desktop app"></a>
+</p>
 
 ## Hey, I'm Sebastian. Online, I'm Laybor. 👋
 
-I like turning everyday annoyances and curious ideas into things I can build. This is my space for personal projects, experiments, and learning by doing.
+I turn everyday annoyances and curious ideas into personal projects. **The goal? Build something useful enough that someone else wants to use it, too.**
 
-**The goal? Make something useful enough that someone else wants to use it, too.**
+🦇 Dracula theme enjoyer · 🎮 Video game lover · 🛠️ Learning by building
 
-Some projects will help me organize my life. Others will just be fun to make. I'll share the progress, the code, and what I learn along the way.
+## My toolbox
+
+<p align="center"><strong>Building for the web</strong></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="HTML, CSS, JavaScript, Git and GitHub" height="56"></a></p>
+<p align="center"><strong>Exploring desktop development</strong></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,qt,sqlite&theme=dark" alt="Learning Python, Qt through PySide6, and SQLite" height="56"></a></p>
 
 ## On the workbench
 
-### 📂 A little less chaos in Downloads
+<p align="center"><img src="assets/workbench.svg" width="100%" alt="File organizer concept: a messy folder becomes a reviewed plan, then organized files. Planned: preview, no overwrites and undo."></p>
 
-**File organizer for Windows · Getting started**
+**My files are a mess. So I'm building my first desktop app to help.**
 
-My files are a mess. That sounds like a good reason to build my first desktop app.
+Choose a folder → preview the plan → organize files → undo if needed.
 
-The idea: choose a folder, preview where everything would go, then organize it—with a way to undo the moves.
-
-| First milestone | Planned behavior |
-| :--- | :--- |
-| See the mess | Scan a folder and group files by type |
-| Check the plan | Preview destinations before moving files |
-| Keep control | Handle duplicate names without overwriting |
-| Change your mind | Keep a movement history and support undo |
-
-**Planned stack:** `Python` · `PySide6` · `SQLite`
-
-I'll add the repository and a demo here when they're public.
-
-## Explore a project
-
-### 🎨 GridPaintingWeb
-
-Choose a grid size and paint individual cells to create pixel art in the browser.
-
-[![GridPaintingWeb screenshot](https://raw.githubusercontent.com/Laybor/GridPaintingWeb/main/Images/Preview-Pixelart-Generator.png)](https://github.com/Laybor/GridPaintingWeb)
-
-`HTML` · `CSS` · `JavaScript`
-
-**A learning project built on existing code.** My contribution was improving parts of it and fixing issues, as described in the project's README.
-
-[Explore the repository →](https://github.com/Laybor/GridPaintingWeb)
-
-## Behind the handle
-
-- 🦇 Dracula theme enjoyer. Purple is probably staying.
-- 🎮 I love video games and projects with a playful side.
-- 🛠️ Learning web development and taking my first steps into desktop apps.
-- 💡 I want to build tools people can actually use—and improve them through feedback.
-
-| Working with | Exploring next |
-| :--- | :--- |
-| HTML · CSS · JavaScript | Python · PySide6 · SQLite |
+`Getting started` · `Python + PySide6 + SQLite` · Repository and demo coming when public.
 
 <details>
-<summary><strong>Side quests for another day</strong></summary>
+<summary>🧭 The first milestones</summary>
 
-- Split shared expenses and figure out who owes whom.
-- Monitor websites and APIs to see when they go down.
-- Build a maze game that shows how pathfinding algorithms work.
-
-Ideas for now. One useful first version at a time.
+- [ ] Scan a folder and group files by type.
+- [ ] Preview destinations before moving anything.
+- [ ] Resolve duplicate names without overwriting.
+- [ ] Keep a movement history and support undo.
+- [ ] Publish an installable first version.
 
 </details>
 
+## Play with pixels
+
+### 🎨 GridPaintingWeb
+
+[![GridPaintingWeb pixel art interface](https://raw.githubusercontent.com/Laybor/GridPaintingWeb/main/Images/Preview-Pixelart-Generator.png)](https://github.com/Laybor/GridPaintingWeb)
+
+Choose a grid. Pick a color. Paint something.
+
+<p><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="36" alt="HTML, CSS and JavaScript"></p>
+
+A learning project based on existing code, with improvements and fixes by me. [Explore the code →](https://github.com/Laybor/GridPaintingWeb)
+
+## The workshop in numbers
+
+<p align="center"><img src="assets/stats.svg" width="100%" alt="Public project count, stars earned, followers and forks received. Updated daily."></p>
+<p align="center"><img src="assets/languages.svg" width="100%" alt="Languages by code bytes in my original public projects. This measures usage, not proficiency."></p>
+
+<sub>Real public data from GitHub, refreshed daily. Project metrics exclude forks and this profile repository.</sub>
+
+## Feeding the contribution snake 🐍
+
+<p align="center"><img src="assets/contribution-snake.svg" width="100%" alt="Animated snake eating the cells of Laybor's GitHub contribution calendar."></p>
+
+<sub>A little arcade energy for the contribution graph. Generated from my GitHub contributions.</sub>
+
 ## Fresh from the workshop
 
-Recent pushes to my own public projects. Updated automatically; a push doesn't necessarily mean a finished release.
+<details>
+<summary><strong>📡 Recent project activity</strong></summary>
+
+Recent pushes to my own public projects. A push doesn't necessarily mean a finished release.
 
 <!-- ACTIVITY:START -->
 | Repository | Main language | Last push (UTC) |
@@ -77,8 +77,30 @@ Recent pushes to my own public projects. Updated automatically; a push doesn't n
 | [GridPaintingWeb](https://github.com/Laybor/GridPaintingWeb) | JavaScript | 2024-10-12 |
 <!-- ACTIVITY:END -->
 
-## Found something useful? Or something broken?
+</details>
 
-Explore the code, try a project, or open an issue in its repository with a bug or an idea. Tell me what you were trying to do—that's a great starting point for the next improvement.
+<details>
+<summary><strong>🎮 Future side quests</strong></summary>
 
-<p align="center"><a href="https://github.com/Laybor?tab=repositories"><strong>Explore the projects ↗</strong></a><br><br><sub>Built with curiosity. Improved through use.</sub></p>
+- A shared-expense tracker that figures out who owes whom.
+- A website and API uptime monitor.
+- A maze game that visualizes pathfinding algorithms.
+
+Ideas for another day. One useful first version at a time.
+
+</details>
+
+## Try it. Break it. Help improve it.
+
+Found a bug or have an idea? Open an issue in the project's repository and tell me what you were trying to do.
+
+<p align="center"><a href="https://github.com/Laybor?tab=repositories"><img src="https://img.shields.io/badge/FIND_YOUR_NEXT_USEFUL_TOOL-50fa7b?style=for-the-badge&logo=github&logoColor=282a36" alt="Browse Laybor's projects"></a></p>
+
+<details>
+<summary>Visual credits & how this profile works</summary>
+
+Technology logos by [Skill Icons](https://github.com/tandpfun/skill-icons). Badges by [Shields.io](https://shields.io). Contribution animation by [Platane/snk](https://github.com/Platane/snk). Colors inspired by [Dracula](https://draculatheme.com/).
+
+The banner, organizer concept and statistics cards are custom SVGs. Stats and language shares are generated from GitHub's public API; language shares measure code bytes, not expertise. The organizer illustration shows a planned flow, not a finished app. The daily workflow refreshes the cards, recent projects and contribution animation.
+
+</details>

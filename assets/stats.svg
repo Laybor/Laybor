@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
+<title id="title">Laybor public project statistics</title>
+<desc id="desc">1 original public projects, 0 stars, 0 followers, 0 forks received. Profile repository excluded from project metrics.</desc>
+<rect width="960" height="230" rx="18" fill="#282a36"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="32" y="40" fill="#bd93f9" font-size="15" letter-spacing="3">THE WORKSHOP / BY THE NUMBERS</text>
+<path d="M256 72V166M480 72V166M704 72V166" stroke="#44475a"/>
+<g font-size="48" font-weight="700"><text x="32" y="123" fill="#bd93f9">1</text><text x="288" y="123" fill="#ff79c6">0</text><text x="512" y="123" fill="#8be9fd">0</text><text x="736" y="123" fill="#50fa7b">0</text></g>
+<g fill="#f8f8f2" font-size="17"><text x="32" y="156">Public projects</text><text x="288" y="156">Stars earned</text><text x="512" y="156">Followers</text><text x="736" y="156">Forks received</text></g>
+<text x="32" y="205" fill="#b8b6c8" font-size="13">Public originals only · Profile repository excluded · Small beginnings, real progress.</text>
+</g></svg>
